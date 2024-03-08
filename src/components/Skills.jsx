@@ -16,7 +16,7 @@ const SkillProgressBar = () => {
   ];
 
   return (
-    <div className="max-w-xl mx-auto p-4 mt-16">
+    <div className="max-w-xl mx-auto p-4 mt-16 mb-12">
       <h4 className="text-4xl  text-dark-purple font-bold mb-6 text-center">
         Skills
       </h4>

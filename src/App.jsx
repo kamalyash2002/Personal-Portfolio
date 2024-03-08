@@ -5,10 +5,11 @@ import Navbar from './components/Navbar'
 import HeroBack from './components/HeroBack'
 import Hero from './components/Hero'
 import Aboutme from './components/Aboutme'
-import PORComponent from './components/POR'
+import Achievements from './components/POR'
 
 import Skills from './components/Skills'
 import TheExperienceComponent from './components/Experience'
+import Contactus from './components/Contactus'
 
 function App() {
    // eslint-disable-next-line no-unused-vars
@@ -21,6 +22,8 @@ function App() {
       <Aboutme></Aboutme>
       <Skills></Skills>
       <TheExperienceComponent></TheExperienceComponent>
+      <Achievements></Achievements>
+      <Contactus></Contactus>
     </>
   )
 }
