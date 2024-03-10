@@ -103,7 +103,7 @@ const details = {
       <div class="container mx-auto px-4">
         <div class="-mx-4 flex flex-wrap justify-between">
           <div class="px-4 w-full text-center sm:w-auto sm:text-left">
-            Made and designed with ❤️ by Yash 
+            Made and designed by ❤️ by Yash 
           </div>
         </div>
       </div>
