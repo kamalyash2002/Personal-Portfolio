@@ -49,7 +49,7 @@ const Hero = () => {
                         </div>
                         <div className='flex-1 hidden md:block ml-'>
                             {/* Replace with your image */}
-                            <img src={heroimage} className="max-w-xl" />
+                            <img src={heroimage} className="animate-fade-down max-w-xl" />
                         </div>
                     </div>
                 </section>
